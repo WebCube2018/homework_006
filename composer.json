@@ -1,0 +1,20 @@
+{
+  "name": "homework_006 task 6/2",
+  "authors": [
+    {
+      "name": "Andrei Donets",
+      "email": "info@webcube.su"
+    }
+  ],
+  "require": {
+    "slim/slim": "^2.6",
+    "illuminate/database": "5.4",
+    "fzaninotto/faker": "^1.9",
+    "robmorgan/phinx": "^0.4.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  }
+}
